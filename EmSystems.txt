@@ -1,0 +1,7 @@
+Admin
+- admin@company.local
+- Admin@123
+
+Employees
+- emp001@company.local
+- User@123
